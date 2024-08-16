@@ -16,7 +16,7 @@ The GTZAN dataset consists of 1000 audio tracks categorized into 10 genres: blue
 
 
 ## Results
-The reuslt on test data is about 61% which is acceptable considering genres like Rock, which has lots of variant subgenres that are similar to other genres.
+The reuslt on test data is about 63.5%. which is acceptable considering genres like Rock, which has lots of variant subgenres that are similar to other genres.
 Here is an image of the confusion matrix:
 
 ![Confusion Matrix](results/output.png)
